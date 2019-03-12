@@ -6,7 +6,7 @@ SDK for Jira integration in .net
 
 <h2>Open issues</h2>
 * Not all code is unit tested
-* Some custom business logic still in the API (especialy in the Epic class).
+* Some custom business logic still in the API (especially in the Epic class).
 
 This repository is open for pull requests!
 
